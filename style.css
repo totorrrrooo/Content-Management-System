@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+}
+.bxl-html5{
+    color: orange;
+    font-size: 16px;
+    letter-spacing: 2px;
+}
+.font-size-HTML{
+    font-size: 15px;
+    color: rgb(38, 38, 38);
+}
+.bxl-css3{
+    color: rgb(0, 119, 255);
+    font-size: 16px;
+    letter-spacing: 2px;
+}
+.font-size-CSS{
+    font-size: 15px;
+    color: rgb(38, 38, 38);
+}
+.centered-image {
+    border-radius: 10px;
+    width: 380px;
+    height: 300;
+}
+.bxl-javascript{
+    color: rgb(255, 225, 0);
+    font-size: 16px;
+    letter-spacing: 2px;
+}
+.font-size-JavaScript{
+    font-size: 15px;
+    color: rgb(38, 38, 38);
+}
+.wordpress p{
+    text-align: center;
+}
